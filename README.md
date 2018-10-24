@@ -1,4 +1,4 @@
-# Behavior Research Methods: The Rippling Dynamics of Valenced Messages in Naturalistic Youth Chat"
+# Behavior Research Methods: "The Rippling Dynamics of Valenced Messages in Naturalistic Youth Chat"
 
 This document provides detailed methdodological background information for the article "The Rippling Dynamics of Valenced Messages in Naturalistic Youth Chat" by Seth Frey et al. appearing in [Behavior Research Methods](https://doi.org/10.3758/s13428-018-1140-6).
 
